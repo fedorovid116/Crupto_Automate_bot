@@ -1,1 +1,1 @@
-# Crupto_Automate_bot
+# Crypto_Automate_bot
