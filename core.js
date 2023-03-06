@@ -1,4 +1,3 @@
-
 const puppeteer = require('puppeteer-extra');
 var sleep = require('system-sleep');
 puppeteer.use(require('puppeteer-extra-plugin-repl')())
